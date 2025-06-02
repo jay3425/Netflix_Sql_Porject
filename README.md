@@ -338,7 +338,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 ### Stay Updated and Join me
 
 - **GMail**: [Email Me!](https://www.jaydengle2005@gmail.com)
-- **Instagram**: [Follow me](https://www.instagram.com/zero_analyst/)
+- **Instagram**: [Follow me]()
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/jay-anil-dengle-049952337/)
 
 Thank you, and I look forward to connecting with you!
