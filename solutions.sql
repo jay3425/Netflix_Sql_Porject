@@ -15,9 +15,7 @@ CREATE TABLE netflix
 	listed_in    VARCHAR(100), 
 	description  VARCHAR(250)
 );
-select * from netflix;
-select count(*) as total_content from netflix;
-select distinct type from netflix;
+
 
 -- 20 Business Problems
 
